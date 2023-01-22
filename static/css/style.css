@@ -3267,3 +3267,12 @@ iframe{
   margin-left: -100px;
   z-index: -100;
 }
+
+
+
+.sm_1 i{
+  font-size: 25px;
+    justify-content: center;
+    display: flex;
+    padding-top: 13px;
+}
